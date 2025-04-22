@@ -1,0 +1,8 @@
+﻿  жук пожиратель.cpp
+C:\Users\Настя\source\repos\жук пожиратель\жук пожиратель\жук пожиратель.cpp(21,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  1 of 17 functions ( 5.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  жук пожиратель.vcxproj -> C:\Users\Настя\source\repos\жук пожиратель\Release\жук пожиратель.exe
